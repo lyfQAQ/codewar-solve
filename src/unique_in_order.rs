@@ -5,7 +5,7 @@ where
 {
     let mut res = vec![];
     for item in sequence {
-        if res.is_empty() || item != res.last().unwrap(){
+        if res.is_empty() || item != *res.last().unwrap(){
             res.push(item);
         }
     }
