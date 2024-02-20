@@ -1,5 +1,6 @@
 mod are_they_the_same;
 mod build_tower;
+mod consecutive_strings;
 mod convert_string_to_camel_case;
 mod create_phone_number;
 mod equal_sides_of_array;
