@@ -8,9 +8,9 @@ mod equal_sides_of_array;
 mod order_weight;
 mod range_extraction;
 mod rgb_to_hex;
+mod sum_of_intervals;
 mod the_supermarket_queue;
 mod unique_in_order;
-
 fn main() {
     println!("Hello, world!");
 }
